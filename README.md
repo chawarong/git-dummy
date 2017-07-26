@@ -1,4 +1,4 @@
 git-dummy
 =========
 
-My git repo for experimenting stuff.
+My git repo for experimenting stuff..
